@@ -99,7 +99,6 @@ header {
   justify-content: space-around;
   flex-wrap: wrap;
   row-gap: 30px;
-  overflow: hidden;
 }
 .button_use_container .button_use {
   display: flex;
@@ -188,7 +187,6 @@ header .logo:hover,
   background-color: white;
   padding: 4px 15px;
   border-radius: 0 0 20px 20px;
-  overflow: hidden;
 }
 .container_text_bloc .inline_resto {
   padding-top: 11px;
